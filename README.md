@@ -12,7 +12,7 @@ This is a MVP Version, hoping to upgrade with Skin and Update.
 This MVP is secure,high-performance and Maintainable Solution for
 Task Management in a Team.
 Also It used **ES256** for its High Performance and Robust Security.
-It is Cloud-Based.It Can be Deployed with Skins, Upgrades and Subcription Model.
+It is Cloud-Based.It Can be Deployed with Skins, Upgrades and Subscription Model.
 
 **Key Features:**
 -User Authentication and Authorization with Cryptography and JSON Web Token.
